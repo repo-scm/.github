@@ -27,11 +27,11 @@ Legend of annotations:
 
 ### Proxy
 
-✅ Add proxy for git sites [repo-scm/git#8](https://github.com/repo-scm/git/issues/8)
+✅ Add proxy for git sites [repo-scm/proxy#8](https://github.com/repo-scm/proxy/issues/8)
 
 ### Sandbox
 
-✅ Add sandbox for git workspace [repo-scm/git#6](https://github.com/repo-scm/git/issues/6)
+✅ Add sandbox for git workspace [repo-scm/sandbox#6](https://github.com/repo-scm/sandbox/issues/6)
 
 ### Namespace
 
