@@ -19,7 +19,7 @@ Legend of annotations:
 |  🔵  | more investigation required to remove uncertainty |
 |  ✅  | completed                                         |
 
-### Commands
+### Git
 
 ✅ Add commands of create, list, run and delete for git workspace [repo-scm/git#11](https://github.com/repo-scm/git/issues/11)  
 ✅ Add commands of chat and mcp for git workspace [repo-scm/git#12](https://github.com/repo-scm/git/issues/12)  
