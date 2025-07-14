@@ -31,7 +31,7 @@ Legend of annotations:
 
 ### Repo
 
-✅ Add support for repo with copy-on-write [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)
+✅ Add support for repo with overlay [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)
 
 ### Sandbox
 
