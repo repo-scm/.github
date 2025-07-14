@@ -29,6 +29,10 @@ Legend of annotations:
 
 ✅ Add proxy for git sites [repo-scm/proxy#1](https://github.com/repo-scm/proxy/issues/1)
 
+### Repo
+
+✅ Add support for repo with copy-on-write [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)
+
 ### Sandbox
 
 ✅ Add sandbox for git workspace [repo-scm/sandbox#1](https://github.com/repo-scm/sandbox/issues/1)
