@@ -31,7 +31,8 @@ Legend of annotations:
 
 ### Repo
 
-✅ Add support for repo with overlay [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)
+✅ Add support to mount android source with overlay [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)  
+✅ Add command of reset for repo workspace [repo-scm/repo#2](https://github.com/repo-scm/repo/issues/2)
 
 ### Sandbox
 
