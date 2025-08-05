@@ -31,7 +31,7 @@ Legend of annotations:
 
 ### Repo
 
-✅ Add option of --use-overlay for repo workspace [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)  
+✅ Add option of overlay for repo workspace [repo-scm/repo#1](https://github.com/repo-scm/repo/issues/1)  
 
 ### Sandbox
 
